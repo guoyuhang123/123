@@ -1,0 +1,10 @@
+server:
+  port: 9028
+spring:
+  application:
+    name: Jsoup-lianxi
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/
+    username: root
+    password: 1234
